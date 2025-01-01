@@ -1,54 +1,68 @@
-<div style="height: 150px; display: flex; align-items: stretch; background-image: url('https://github.com/iragca/web-hosting/blob/main/web-assets/blsuecube.gif?raw=true');
-            background-size: cover;">
-    <div style="height: 100%;">
-        <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/alex_peipman_surrounded.jpg?raw=true" alt="alex-piepman_surrounded">
-    </div>
-    <div style="display: flex;
-            flex-direction: column;
-            justify-content: center;
-            background: rgba(0, 0, 0, 0.3);
-            background: linear-gradient(to right, rgba(255, 25, 0, 0.4), rgba(0, 0, 0, 0.0));
-            backdrop-filter: blur(0px);
-            overflow: hidden;
-            padding-right: 50px;
-            padding-left: 10px">
-        <span style="text-shadow: 3px 3px 2px rgba(255, 0, 0, 0.5), -2px -2px 5px rgba(0, 0, 255, 0.5);">
-            Alex Peipman
-        </span>
-        <span class="album-details" style="font-size: 20px; font-weight: bold;text-shadow: 3px 3px 2px rgba(255, 0, 0, 0.5), -2px -2px 5px rgba(0, 0, 255, 0.5);">
-            Surrounded
-        </span>
-        <span style="text-shadow: 3px 3px 2px rgba(255, 0, 0, 0.5), -2px -2px 5px rgba(0, 0, 255, 0.5);">
-            BUCKSHOT ROULETTE VOL. II
-        </span>
-    </div>
-</div>
+<!-- Music -->
+
+<h2></h2>
 
 
-<h3>Languages and Tools</h3>
-<div style="display: flex; gap: 10px;">
-    <div>
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&hide=jupyter%20notebook' alt="Top Languages">
-    </div>
-    <div>
-        <a href="https://www.langchain.com/" style="text-decoration: none; 
-            display: inline-block; 
-            padding: 7px; 
-            background-color: #f0f0f0; 
-            border-radius: 8px; 
-            border: 2px solid black; 
-            transition: background-color 0.3s ease;">
-            <span style="font-size: 24px; color: #333;">🦜🔗</span>
-        </a>
-    </div>
-    <div style="width: 50px">
-        <a href="https://www.python.org/">
-            <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/python.png?raw=true" alt="python"
-        ></a>
-    </div>
-</div>
+<p style="text-align: center;">
+  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/blsuecube.gif?raw=true" alt="Description of image" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img align="left" src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/alex_peipman_surrounded.jpg?raw=true" alt="alex-piepman_surrounded" width="75px">
+
+Alex<br>
+**Surrounded**<br>
+BUCKSHOT ROULETTE VOL. II
+
+<h2></h2>
+
+### Chris Andrei Irag
+
+📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
+
+🏫 University of Science and Technology of Southern Philippines
+
+🎓 3rd Year Data Science Undergraduate
+
+<h2></h2>
+
+<!-- Languages and Tools -->
+
+<h3 style="text-align: center;">Languages and Tools</h3>
+
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&hide=jupyter%20notebook&langs_count=8&layout=compact' alt="Top Languages">
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Light.svg"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Light.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Light.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"/>
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Light.svg"/>
+  </a>
+</p>
+
+<!-- Low-Mid Level languages -->
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Light.svg"/>
+
+  </a>
+</p>
