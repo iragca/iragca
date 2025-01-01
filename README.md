@@ -1,10 +1,11 @@
 <!-- Music -->
 
-<h2></h2>
-
+<p style="text-align: center;">
+  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/terminal.gif?raw=true" alt="terminal" />
+</p>
 
 <p style="text-align: center;">
-  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/blsuecube.gif?raw=true" alt="Description of image" />
+  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/blsuecube.gif?raw=true" alt="rave" />
 </p>
 
 <img align="left" src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/alex_peipman_surrounded.jpg?raw=true" alt="alex-piepman_surrounded" width="75px">
@@ -57,6 +58,10 @@
   <a href="https://graphql.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Light.svg"/>
   </a>
+  <a href="https://www.langchain.com/">
+    <img width="50px" src="https://raw.githubusercontent.com/iragca/web-hosting/1ba79a20d32651314d74b34a4ccdf7ebe1809450/web-assets/logo_collection/langchain-light.svg">
+  </a>
+  </div>
 </p>
 
 <p align="left">
