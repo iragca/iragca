@@ -97,10 +97,17 @@
   </a>
 </p>
 
-<!-- Low-Mid Level languages -->
-
 <p align="left">
   <a href="https://www.java.com/en/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Light.svg"/>
   </a>
 </p>
+
+<h2></h2>
+
+<!-- Miscellaneous  -->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/iragca?ext=activity)
+
+
+
