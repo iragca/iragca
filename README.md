@@ -1,7 +1,7 @@
 <!-- Music -->
 
 <p style="text-align: center;">
-  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/terminal.gif?raw=true" alt="terminal" />
+  <img loop="false" src="https://github.com/iragca/web-hosting/blob/main/web-assets/terminal.gif?raw=true" alt="terminal">
 </p>
 
 <p style="text-align: center;">
