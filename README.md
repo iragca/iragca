@@ -41,7 +41,9 @@
 
 <h3 style="text-align: center;">Languages and Tools</h3>
 
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&hide=jupyter%20notebook&langs_count=8&layout=compact' alt="Top Languages">
+<div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=8" width="428">
 
 <p align="left">
   <a href="https://www.python.org/">
