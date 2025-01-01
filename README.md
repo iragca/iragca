@@ -15,7 +15,19 @@ BUCKSHOT ROULETTE VOL. II
 
 <h2></h2>
 
+<!-- User -->
+
 ### Chris Andrei Irag
+
+<p align="left">
+  <img width="63px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg"/>
+  <a href="mailto:chrisandrei.irag@1.ustp.edu.ph">
+    <img width="75px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/email_me.svg"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chris-andrei-irag/">
+    <img width="75px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"/>
+  </a>
+</p>
 
 📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
 
@@ -32,28 +44,45 @@ BUCKSHOT ROULETTE VOL. II
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&hide=jupyter%20notebook&langs_count=8&layout=compact' alt="Top Languages">
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg"/>
+  <a href="https://www.python.org/">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg"/>
+  </a>
+  <a href="https://scikit-learn.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg"/>
+  </a>
+  <a href="https://www.sqlite.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg"/>
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Dark.svg"/>
+  <a href="https://graphql.org/">
+    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Light.svg"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+  </a>
+  <a href="https://drafts.csswg.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Light.svg"/>
   </a>
 </p>
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://aws.amazon.com/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Light.svg"/>
+  </a>
+  <a href="https://www.cloudflare.com/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Light.svg"/>
+  </a>
+  <a href="https://www.docker.com/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Light.svg"/>
   </a>
 </p>
@@ -61,8 +90,7 @@ BUCKSHOT ROULETTE VOL. II
 <!-- Low-Mid Level languages -->
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://www.java.com/en/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Light.svg"/>
-
   </a>
 </p>
