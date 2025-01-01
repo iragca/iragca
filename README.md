@@ -77,6 +77,9 @@
   <a href="https://flask.palletsprojects.com/en/stable/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Light.svg"/>
   </a>
+  <a href="https://streamlit.io/">
+    <img width="50px"src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/streamlit-mark-color.png?raw=true"/>
+  </a>
 </p>
 
 <p align="left">
