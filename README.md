@@ -48,18 +48,19 @@
 
 <p align="left">
   <a href="https://www.python.org/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Light.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg"/>
   </a>
   <a href="https://scikit-learn.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg"/>
   </a>
   <a href="https://www.sqlite.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg"/>
+  </a>
   <a href="https://graphql.org/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/GraphQL-Light.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/graphql.svg"/>
   </a>
   <a href="https://www.langchain.com/">
-    <img width="50px" src="https://raw.githubusercontent.com/iragca/web-hosting/1ba79a20d32651314d74b34a4ccdf7ebe1809450/web-assets/logo_collection/langchain-light.svg">
+    <img width="50px" src="https://github.com/ixrzr/skills-icons/raw/main/icons/langchain.svg">
   </a>
   </div>
 </p>
@@ -78,7 +79,7 @@
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Light.svg"/>
   </a>
   <a href="https://streamlit.io/">
-    <img width="50px"src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/streamlit-mark-color.png?raw=true"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/streamlit.svg"/>
   </a>
 </p>
 
