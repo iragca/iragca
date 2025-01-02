@@ -51,7 +51,7 @@
     <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg"/>
   </a>
   <a href="https://scikit-learn.org/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/scikitlearn.svg"/>
   </a>
   <a href="https://www.sqlite.org/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg"/>
@@ -85,13 +85,13 @@
 
 <p align="left">
   <a href="https://aws.amazon.com/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Light.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/amazonwebservices.svg"/>
   </a>
   <a href="https://www.cloudflare.com/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Light.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/cloudflare.svg"/>
   </a>
   <a href="https://www.docker.com/">
-    <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"/>
+    <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/docker.svg"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img width="50px"src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Light.svg"/>
