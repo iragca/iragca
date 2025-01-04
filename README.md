@@ -32,6 +32,8 @@
 
 📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
 
+🛠 Currently working on [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator)
+
 🏫 University of Science and Technology of Southern Philippines
 
 🎓 3rd Year Data Science Undergraduate
