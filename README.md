@@ -30,13 +30,23 @@
   </a>
 </p>
 
-📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
-
-🛠 Currently working on [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator)
-
 🏫 University of Science and Technology of Southern Philippines
 
 🎓 3rd Year Data Science Undergraduate
+
+📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
+
+<h2></h2>
+
+#### Projects
+
+🛠 [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
+
+🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
+
+⏳ HR-Screening Tool using Flask, LangChain
+
+⏳ Modular Resume Maker using Django
 
 <h2></h2>
 
