@@ -34,7 +34,7 @@
 
 🎓 3rd Year Data Science Undergraduate
 
-📖 Currently learning about Web Development (HTML, JavaScript, CSS, Flask)
+📖 Currently learning about Web Development (HTML, JavaScript, CSS, Jekyll, Flask)
 
 <h2></h2>
 
