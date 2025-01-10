@@ -42,7 +42,8 @@
 
 🛠 [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
 
-🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
+✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
+‎ └── 🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
 
 ⏳ HR-Screening Tool using Flask, LangChain
 
