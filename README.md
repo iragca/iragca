@@ -40,7 +40,7 @@
 
 #### Projects
 
-🛠 [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
+✅ [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
 
 ✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
 ‎ └── 🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
