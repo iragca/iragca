@@ -3,10 +3,17 @@
 # (2) https://github.com/devcontainers/features/blob/main/src/common-utils/scripts/devcontainers.zsh-theme
 
 function virtenv_indicator {
-    if [[ -z $VIRTUAL_ENV ]] then
-        psvar[1]=""
+    if [[ -z "$VIRTUAL_ENV" ]]; then
+        psvar[1]=''
     else
-        psvar[1]=".venv"
+        # Convert Windows path to Linux format (if needed)
+        local venv_path="$VIRTUAL_ENV"
+        if [[ "$venv_path" == *:*\\* ]]; then
+            venv_path=$(wslpath -u "$venv_path")
+        fi
+
+        # Extract only the virtual environment name
+        psvar[1]=$(basename "$venv_path")
     fi
 }
 
