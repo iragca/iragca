@@ -1,6 +1,17 @@
 # Oh My Zsh! theme - partly inspired by:
 # (1) https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/robbyrussell.zsh-theme
 # (2) https://github.com/devcontainers/features/blob/main/src/common-utils/scripts/devcontainers.zsh-theme
+
+function virtenv_indicator {
+    if [[ -z $VIRTUAL_ENV ]] then
+        psvar[1]=""
+    else
+        psvar[1]=".venv"
+    fi
+}
+
+add-zsh-hook precmd virtenv_indicator
+
 __zsh_prompt() {
     local prompt_username
     if [ ! -z "${GITHUB_USER}" ]; then
@@ -8,13 +19,13 @@ __zsh_prompt() {
     else
         prompt_username="%n"
     fi
-    PROMPT="%{$fg[green]%}@${prompt_username} %(?:%{$fg_bold[green]%}%1{➜%} :%{$fg_bold[red]%}%1{➜%} ) %{$fg[blue]%}%c%{$reset_color%}"
+    PROMPT="%(1V.(%1v).) %{$fg[green]%}@${prompt_username} %(?:%{$fg_bold[green]%}%1{➜%} :%{$fg_bold[red]%}%1{➜%} ) %{$fg[blue]%}%c%{$reset_color%}"
     PROMPT+=' $(git_prompt_info)'
 
     ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[cyan]%}(%{$fg[red]%}"
     ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
     ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[cyan]%}) %{$fg[yellow]%}%1{$%}"
-    ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[cyan]%})"
+    ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[gray]%})"
     unset -f __zsh_prompt
 }
 __zsh_prompt
