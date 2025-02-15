@@ -27,15 +27,17 @@ __zsh_prompt() {
         prompt_username="%n"
     fi
 
-    PROMPT="%(1V.(%1v).) %{$fg_bold[green]%}@${prompt_username} %(?:%{$fg_bold[green]%}%1{➜%} :%{$fg_bold[red]%}%1{➜%} )%{$fg[blue]%}%c%{$reset_color%}"
+    PROMPT="%(1V.(%1v).)%{$fg_bold[green]%}@${prompt_username} %(?:%{$fg_bold[green]%}%1{➜%} :%{$fg_bold[red]%}%1{➜%} )%{$fg[blue]%}%c%{$reset_color%}"
     PROMPT+=' $(git_prompt_info)'
+    PROMPT+=$'\n'
+    PROMPT+="%{$fg_bold[white]%}₱%{$reset_color%} "
 
     ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[cyan]%}(%{$fg[red]%}"
-    ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} $ "
+    ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
     ZSH_THEME_GIT_PROMPT_DIRTY=" %{$fg[yellow]%}%1{*%}%{$fg[cyan]%})"
     ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[cyan]%})"
     ZSH_THEME_GIT_PROMPT_BEHIND_REMOTE="%{$fg_bold[magenta]%}↓%{$reset_color%}"
-    ZSH_THEME_GIT_PROMPT_AHEAD_REMOTE="%{$fg_bold[magenta]%}↑%{$reset_color%}"
+    ZSH_THEME_GIT_PROMPT_AHEAD_REMOTE="%{$fg_bold[magenta]%}↑%{$reset_color%}asdasd"
     ZSH_THEME_GIT_PROMPT_DIVERGED_REMOTE="%{$fg_bold[magenta]%}↕%{$reset_color%}"
 
     unset -f __zsh_prompt
