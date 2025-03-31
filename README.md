@@ -49,6 +49,8 @@
 
 ⏳ Modular Resume Maker using Django
 
+⏳ USTP Campus Interactive Map inspired by [Stanford](https://campus-map.stanford.edu/)
+
 <h2></h2>
 
 <!-- Languages and Tools -->
