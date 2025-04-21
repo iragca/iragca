@@ -59,7 +59,7 @@
 
 <div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook&langs_count=8&theme=dracula&exclude_repo=Anilist-Data-Transfer" width="428">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iragca&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html&langs_count=8&theme=dracula&exclude_repo=Anilist-Data-Transfer" width="428">
 
 <p align="left">
   <a href="https://www.python.org/">
