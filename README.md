@@ -45,11 +45,13 @@
 ✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
 ‎ └── 🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
 
-⏳ HR-Screening Tool using Flask, LangChain
+💡 HR-Screening Tool using Flask, LangChain
 
-⏳ Modular Resume Maker using Django
+💡 Modular Resume Maker using Django
 
-⏳ USTP Campus Interactive Map inspired by [Stanford](https://campus-map.stanford.edu/)
+💡 YouTube Courses wrapper with Markdown Note taking.
+
+💡 USTP Campus Interactive Map inspired by [Stanford](https://campus-map.stanford.edu/)
 
 <h2></h2>
 
