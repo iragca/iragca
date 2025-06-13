@@ -53,7 +53,7 @@
 
 💡 USTP Campus Interactive Map inspired by [Stanford](https://campus-map.stanford.edu/)
 
-💡 The Sandpit: Gradient Descent Minigame (Pygame)
+💡 The Sandpit: Gradient Descent Minigame (Pygame or Static website)
 
 <h2></h2>
 
