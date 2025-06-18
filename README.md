@@ -43,15 +43,15 @@
 ✅ [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
 
 ✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
-‎ └── 🛠 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
+‎ └── 🪦 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
+
+🛠 [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map/graphs/contributors) inspired by [Stanford](https://campus-map.stanford.edu/)
 
 💡 HR-Screening Tool using Flask, LangChain
 
 💡 Modular Resume Maker using Django
 
 💡 YouTube Courses wrapper with Markdown Note taking.
-
-💡 USTP Campus Interactive Map inspired by [Stanford](https://campus-map.stanford.edu/)
 
 💡 The Sandpit: Gradient Descent Minigame (Pygame or Static website)
 
