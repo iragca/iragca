@@ -47,6 +47,8 @@
 
 🛠 [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map/graphs/contributors) inspired by [Stanford](https://campus-map.stanford.edu/)
 
+💡 projects.ustp.party, Apps/Programs written by USTP students
+
 💡 HR-Screening Tool using Flask, LangChain
 
 💡 Modular Resume Maker using Django
