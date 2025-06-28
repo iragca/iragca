@@ -45,7 +45,7 @@
 ✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
 ‎ └── 🪦 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
 
-🛠 [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map/graphs/contributors) inspired by [Stanford](https://campus-map.stanford.edu/)
+🛠 [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map) inspired by [Stanford](https://campus-map.stanford.edu/)
 
 💡 projects.ustp.party, Apps/Programs written by USTP students
 
