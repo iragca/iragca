@@ -57,6 +57,8 @@
 
 💡 The Sandpit: Gradient Descent Minigame (Pygame or Static website)
 
+💡 Recommendation Engine for Calibre
+
 <h2></h2>
 
 <!-- Languages and Tools -->
