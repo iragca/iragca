@@ -59,7 +59,7 @@
 
 💡 Recommendation Engine for Calibre
 
-💡 Analyzing the impact of Artificial Intelligence praticing in Social Media discussions, like Grok.
+💡 Analyzing the impact of Artificial Intelligence participating in Social Media discussions, like Grok.
 
 <h2></h2>
 
