@@ -61,6 +61,9 @@
 
 💡 Analyzing the impact of Artificial Intelligence participating in Social Media discussions, like Grok.
 
+💡 Warframe Market Data Science
+
+
 <h2></h2>
 
 <!-- Languages and Tools -->
