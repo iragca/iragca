@@ -63,6 +63,7 @@
 
 💡 Warframe Market Data Science
 
+💡 Interactive Neural Network forward propagation neuron activation visualization
 
 <h2></h2>
 
