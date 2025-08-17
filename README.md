@@ -63,6 +63,8 @@
 
 💡 Warframe Market Data Science
 
+💡 Warframe Companion App using computer vision
+
 💡 Interactive Neural Network forward propagation neuron activation visualization
 
 <h2></h2>
