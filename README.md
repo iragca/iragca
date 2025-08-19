@@ -67,7 +67,7 @@
 
 💡 Interactive Neural Network forward propagation neuron activation visualization
 
-💡 Are lotto numbers real?
+💡 Are lotto numbers really random?
 
 <h2></h2>
 
