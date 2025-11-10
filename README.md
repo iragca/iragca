@@ -2,6 +2,10 @@
 
 ### Chris Andrei Irag
 
+I always love creating solutions for things that I am passionate about.
+
+<br>
+
 <p align="left">
   <img width="63px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg"/>
   <a href="mailto:chrisandrei.irag@1.ustp.edu.ph">
@@ -18,36 +22,56 @@
 
 <h2></h2>
 
-#### Projects
+Experiences in writing software:
 
-✅ [Meal Stub QR Code Generator](https://github.com/iragca/QR-Code-Generator) using ReportLab
+- Web Development
+  - Svelte
+  - TailwindCSS
+  - Typescript
+  - Javascript
+- Backend Development
+  - Python
+  - FFmpeg
+  - Typescript
+  - Node.js
+- Machine Learning Implementation
+  - Python
+  - PyTorch
+- Analytics
+  - Python
+  - matplotlib
+  - sklearn
+  - statsmodels
+- Database Management
+  - PostgreSQL
+  - SQLite
+  - MongoDB
+- CI/CD
+  - Docker
+  - GitHub Actions
 
-✅ [AniList Data Transfer](https://github.com/iragca/Anilist-Data-Transfer) using GraphQL and DuckDB <br>
-‎ └── 🪦 [Keikakku Dashboards](https://github.com/iragca/keikakku-dashboards) using Streamlit
+# Favorite Projects
 
-✅ [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map) inspired by [Stanford](https://campus-map.stanford.edu/)
+## USTP-CDO Campus Interactive Map
 
-💡 projects.ustp.party, Apps/Programs written by USTP students
+<br>
 
-💡 HR-Screening Tool using Flask, LangChain
+<img align="left" height="120" src="https://raw.githubusercontent.com/ustp-party/ux/3291f244e8e11f05aaa4510fb2b6c164f794b9fd/map/logo.svg?token=BMTHO6QKE3VIK7AXIYMIEZDJCHLI2" />
 
-💡 Modular Resume Maker using Django
+[USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map) is an interactive map of my alumni university USTP inspired by [Stanford](https://campus-map.stanford.edu/). It features accessible, searchable, and shareable links to landmarks, event centers, buildings, utilities and more. These locations are accompanied with on site pictures as visual aid. All types of locations have their own identifiable pins on the map.
 
-💡 YouTube Courses wrapper with Markdown Note taking.
+<br>
 
-💡 The Sandpit: Gradient Descent Minigame (Pygame or Static website)
+## Meal Stub QR Code Generator
 
-💡 Recommendation Engine for Calibre
+This [project](https://github.com/iragca/QR-Code-Generator) was a quick and fast scripting solution to request by my father to generate meal stubs for an upcoming event. This one was quite memorable for as this was the first time I got paid for writing software.
 
-💡 Analyzing the impact of Artificial Intelligence participating in Social Media discussions, like Grok.
+<br>
 
-💡 Warframe Market Data Science
+## AniList Data Transfer
 
-💡 Warframe Companion App using computer vision
+This [project](https://github.com/iragca/Anilist-Data-Transfer) was my first real experience in handling actual big data.
 
-💡 Interactive Neural Network forward propagation neuron activation visualization
-
-💡 Are lotto numbers really random?
 
 <h2></h2>
 
