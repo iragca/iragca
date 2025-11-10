@@ -52,6 +52,9 @@ Experiences in building projects:
 
 # Favorite Projects
 
+I contribute to projects that I am passionate about. I have special interest in data engineering, building web apps, home automation tools and governable AI. Below are my favorite projects that I have worked on which show what I am all about. 
+
+
 ## USTP-CDO Campus Interactive Map
 
 <br>
@@ -72,6 +75,7 @@ This [project](https://github.com/iragca/QR-Code-Generator) was a quick and fast
 
 This [project](https://github.com/iragca/Anilist-Data-Transfer) was my first real experience in handling actual big data.
 
+<br><br><br>
 
 <h2></h2>
 
