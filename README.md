@@ -56,7 +56,7 @@ Experiences in building projects:
 
 <br>
 
-<img align="left" height="120" src="https://raw.githubusercontent.com/ustp-party/ux/3291f244e8e11f05aaa4510fb2b6c164f794b9fd/map/logo.svg?token=BMTHO6QKE3VIK7AXIYMIEZDJCHLI2" />
+<img align="left" height="120" src="https://raw.githubusercontent.com/ustp-party/ux/refs/heads/main/map/logo.svg" />
 
 [USTP-CDO Campus Interactive Map](https://github.com/ustp-party/map) is an interactive map of my alumni university USTP inspired by [Stanford](https://campus-map.stanford.edu/). It features accessible, searchable, and shareable links to landmarks, event centers, buildings, utilities and more. These locations are accompanied with on site pictures as visual aid. All types of locations have their own identifiable pins on the map.
 
