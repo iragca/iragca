@@ -14,9 +14,7 @@
 
 🏫 University of Science and Technology of Southern Philippines
 
-🎓 3rd Year Data Science Undergraduate
-
-📖 Currently learning about Web Development (HTML, JavaScript, CSS, Svelte)
+🎓 4th Year Data Science Undergraduate
 
 <h2></h2>
 
