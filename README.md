@@ -22,7 +22,7 @@ I always love creating solutions for things that I am passionate about.
 
 <h2></h2>
 
-Experiences in writing software:
+Experiences in building projects:
 
 - Web Development
   - Svelte
