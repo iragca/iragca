@@ -1,21 +1,3 @@
-<!-- Music -->
-
-<p style="text-align: center;">
-  <img loop="false" src="https://github.com/iragca/web-hosting/blob/main/web-assets/terminal.gif?raw=true" alt="terminal">
-</p>
-
-<p style="text-align: center;">
-  <img src="https://github.com/iragca/web-hosting/blob/main/web-assets/blsuecube.gif?raw=true" alt="rave" />
-</p>
-
-<img align="left" src="https://github.com/iragca/web-hosting/blob/main/web-assets/logo_collection/alex_peipman_surrounded.jpg?raw=true" alt="alex-piepman_surrounded" width="75px">
-
-<sub>Alex Peipman</sub><br>
-**Surrounded**<br>
-<sub>BUCKSHOT ROULETTE VOL. II</sub>
-
-<h2></h2>
-
 <!-- User -->
 
 ### Chris Andrei Irag
