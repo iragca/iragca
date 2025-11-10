@@ -87,6 +87,9 @@ This [project](https://github.com/iragca/Anilist-Data-Transfer) was my first rea
   <a href="https://www.python.org/">
     <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg"/>
   </a>
+    <a href="https://pytorch.org/">
+    <img width="50px"src="https://skills.syvixor.com/api/icons?perline=15&i=pytorch"/>
+  </a>
   <a href="https://scikit-learn.org/">
     <img width="50px"src="https://github.com/ixrzr/skills-icons/raw/main/icons/scikitlearn.svg"/>
   </a>
