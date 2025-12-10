@@ -67,7 +67,7 @@ I contribute to projects that I am passionate about. I have special interest in 
 
 ## Meal Stub QR Code Generator
 
-This [project](https://github.com/iragca/QR-Code-Generator) was a quick and fast scripting solution to request by my father to generate meal stubs for an upcoming event. This one was quite memorable for as this was the first time I got paid for writing software.
+This [project](https://github.com/iragca/QR-Code-Generator) was a quick and fast scripting solution requested by a close relative to generate meal stubs for an upcoming event. This one was quite memorable for as this was the first time I got paid for writing software.
 
 <br>
 
