@@ -26,6 +26,7 @@ Experiences in building projects:
 
 - Web Development
   - Svelte
+  - React
   - TailwindCSS
   - Typescript
   - Javascript
