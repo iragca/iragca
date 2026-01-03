@@ -56,6 +56,16 @@ Experiences in building projects:
 I contribute to projects that I am passionate about. I have special interest in data engineering, building web apps, home automation tools and governable AI. Below are my favorite projects that I have worked on which show what I am all about. 
 
 
+## Docuisine
+
+<br>
+
+<img align="left" height="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.png" />
+
+[Docuisine](https://docuisine.iragca.dev/) is a self-managed/hosted application for saving and documenting food recipes. Inspired by my hobby of cooking, I aimed to document favorites recipes I encounter and wish to cook myself. These recipes are rich in metadata and can be easily shared with friends over the internet. 
+
+<br>
+
 ## USTP-CDO Campus Interactive Map
 
 <br>
@@ -67,6 +77,8 @@ I contribute to projects that I am passionate about. I have special interest in 
 <br>
 
 ## Meal Stub QR Code Generator
+
+<br>
 
 This [project](https://github.com/iragca/QR-Code-Generator) was a quick and fast scripting solution requested by a close relative to generate meal stubs for an upcoming event. This one was quite memorable for as this was the first time I got paid for writing software.
 
