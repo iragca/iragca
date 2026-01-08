@@ -7,13 +7,21 @@ I always love creating solutions for things that I am passionate about.
 <br>
 
 <p align="left">
-  <img width="63px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg"/>
-  <a href="mailto:chrisandrei.irag@1.ustp.edu.ph">
-    <img width="75px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/email_me.svg"/>
+
+  <a href="https://iragca.dev">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website-iragca.dev-blue">
   </a>
+
+  <a href="mailto:iragca@pm.me">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Email-iragca@pm.me-purple">
+  </a>
+  
   <a href="https://www.linkedin.com/in/chris-andrei-irag/">
     <img width="75px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"/>
   </a>
+
+  <img width="63px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg"/>
+
 </p>
 
 🏫 University of Science and Technology of Southern Philippines
