@@ -70,7 +70,7 @@ I contribute to projects that I am passionate about. I have special interest in 
 
 <img align="left" height="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.png" />
 
-[Docuisine](https://docuisine.iragca.dev/) is a self-managed/hosted application for saving and documenting food recipes. Inspired by my hobby of cooking, I aimed to document favorites recipes I encounter and wish to cook myself. These recipes are rich in metadata and can be easily shared with friends over the internet. 
+[Docuisine](https://docuisine.iragca.dev/) is a self-managed/hosted application for saving and documenting food recipes. Inspired by my hobby of cooking, I aimed to document favorite recipes I encounter and wish to cook myself. These recipes are rich in metadata and can be easily shared with friends over the internet. 
 
 <br>
 
