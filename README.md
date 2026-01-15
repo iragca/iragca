@@ -59,6 +59,7 @@ Experiences in building projects:
 - CI/CD
   - Docker
   - GitHub Actions
+  - Bash
 
 # Favorite Projects
 
