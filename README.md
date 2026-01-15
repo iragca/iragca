@@ -40,7 +40,7 @@ Experiences in building projects:
   - Javascript
 - Backend Development
   - Python
-  - FFmpeg
+  - FastAPI
   - Typescript
   - Node.js
 - Machine Learning Implementation
@@ -51,6 +51,7 @@ Experiences in building projects:
   - matplotlib
   - sklearn
   - statsmodels
+  - pandas
 - Database Management
   - PostgreSQL
   - SQLite
