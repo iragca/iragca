@@ -175,6 +175,6 @@ This [project](https://github.com/iragca/Anilist-Data-Transfer) was my first rea
 
 <!-- Miscellaneous  -->
 
-[![roadmap.sh](https://roadmap.sh/card/tall/696751d7e3a4245b31c1215f?variant=dark&roadmaps=%2Cai-data-scientist%2Cdata-engineer%2Cpython)]([https://roadmap.sh](https://roadmap.sh/u/iragca))
+[![roadmap.sh](https://roadmap.sh/card/tall/696751d7e3a4245b31c1215f?variant=dark&roadmaps=%2Cdevops%2Cpython%2Cdata-engineer)](https://roadmap.sh/u/iragca)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iragca?ext=activity)
