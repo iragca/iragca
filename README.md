@@ -2,7 +2,7 @@
 
 ### Chris Andrei Irag
 
-I always love creating solutions for things that I am passionate about.
+I always love creating solutions to problems for things that I am passionate about.
 
 <br>
 
