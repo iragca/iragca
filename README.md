@@ -43,9 +43,10 @@ Experiences in building projects:
   - FastAPI
   - Typescript
   - Node.js
-- Machine Learning Implementation
+- Artificial Intelligence / Machine Learning
   - Python
   - PyTorch
+  - LangChain
 - Analytics
   - Python
   - matplotlib
