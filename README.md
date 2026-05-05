@@ -64,8 +64,17 @@ Experiences in building projects:
 
 # Favorite Projects
 
-I contribute to projects that I am passionate about. I have special interest in data engineering, building web apps, home automation tools and governable AI. Below are my favorite projects that I have worked on which show what I am all about. 
+I contribute to projects that I am passionate about. I have special interest in data engineering, building web apps, home automation tools and governable AI. Below are my favorite projects that I have worked on which show what I am all about.
 
+## TRACE
+
+<br>
+
+<img align="left" height="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.png" />
+
+[TRACE](https://github.com/iragca/capstone-project-2) is a deep learning capstone project, which aims to predict user interaction with extremist conversations, particularly in X/Twitter. The data was gathered from APIs, and scraped from Twitter using existing Python Twitter scrapers. We use the data to train a user-tweet interaction model, specifically Graph Neural Networks.
+
+<br>
 
 ## Docuisine
 
