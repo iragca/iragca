@@ -70,7 +70,7 @@ I contribute to projects that I am passionate about. I have special interest in 
 
 <br>
 
-<img align="left" height="120" src="https://pub-2605a5350a664b7cad96b61a19778380.r2.dev/docuisine/docuisine-no-base.png" />
+<img align="left" height="120" src="https://iragca.github.io/capstone-project-2/_static/trace-2.png" />
 
 [TRACE](https://github.com/iragca/capstone-project-2) is a deep learning capstone project, which aims to predict user interaction with extremist conversations, particularly in X/Twitter. The data was gathered from APIs, and scraped from Twitter using existing Python Twitter scrapers. We use the data to train a user-tweet interaction model, specifically Graph Neural Networks.
 
